@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!--This is status for program-->
+<root>
+    <project1 Status="终止">
+        <program1 Status="终止" />
+        <program2 Status="----" />
+    </project1>
+    <project2 Status="----">
+        <home Status="----" />
+    </project2>
+</root>
